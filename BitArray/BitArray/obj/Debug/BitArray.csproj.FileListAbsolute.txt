@@ -1,0 +1,6 @@
+c:\users\e6430\documents\visual studio 2015\Projects\BitArray\BitArray\bin\Debug\BitArray.exe.config
+c:\users\e6430\documents\visual studio 2015\Projects\BitArray\BitArray\bin\Debug\BitArray.exe
+c:\users\e6430\documents\visual studio 2015\Projects\BitArray\BitArray\bin\Debug\BitArray.pdb
+c:\users\e6430\documents\visual studio 2015\Projects\BitArray\BitArray\obj\Debug\BitArray.csprojResolveAssemblyReference.cache
+c:\users\e6430\documents\visual studio 2015\Projects\BitArray\BitArray\obj\Debug\BitArray.exe
+c:\users\e6430\documents\visual studio 2015\Projects\BitArray\BitArray\obj\Debug\BitArray.pdb
